@@ -1,5 +1,5 @@
 {
-  "name": "react-img-uploader",
+  "name": "image-uploader-react",
   "version": "1.0.0",
   "description": "A react multiple image uploader with drag-drop",
   "main": "index.js",
